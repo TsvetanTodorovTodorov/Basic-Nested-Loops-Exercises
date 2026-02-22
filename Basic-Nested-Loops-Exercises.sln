@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Equal-Sums-Even-Odd-Posi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Sum-Prime-Non-Prime", "03-Sum-Prime-Non-Prime\03-Sum-Prime-Non-Prime.vcxproj", "{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Train-the-Trainers", "04-Train-the-Trainers\04-Train-the-Trainers.vcxproj", "{53E87E3F-0080-4130-A3DC-746AE110CAC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x64.Build.0 = Release|x64
 		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x86.ActiveCfg = Release|Win32
 		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x86.Build.0 = Release|Win32
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Debug|x64.ActiveCfg = Debug|x64
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Debug|x64.Build.0 = Debug|x64
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Debug|x86.Build.0 = Debug|Win32
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x64.ActiveCfg = Release|x64
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x64.Build.0 = Release|x64
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x86.ActiveCfg = Release|Win32
+		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
