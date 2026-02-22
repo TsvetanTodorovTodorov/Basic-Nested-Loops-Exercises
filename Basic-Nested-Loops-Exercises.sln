@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Number-Pyramid", "01-Num
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-Equal-Sums-Even-Odd-Positions", "02-Equal-Sums-Even-Odd-Positions\02-Equal-Sums-Even-Odd-Positions.vcxproj", "{5C200EAF-20FB-4952-9CCF-5EC23D62722E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Sum-Prime-Non-Prime", "03-Sum-Prime-Non-Prime\03-Sum-Prime-Non-Prime.vcxproj", "{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5C200EAF-20FB-4952-9CCF-5EC23D62722E}.Release|x64.Build.0 = Release|x64
 		{5C200EAF-20FB-4952-9CCF-5EC23D62722E}.Release|x86.ActiveCfg = Release|Win32
 		{5C200EAF-20FB-4952-9CCF-5EC23D62722E}.Release|x86.Build.0 = Release|Win32
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Debug|x64.ActiveCfg = Debug|x64
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Debug|x64.Build.0 = Debug|x64
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Debug|x86.Build.0 = Debug|Win32
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x64.ActiveCfg = Release|x64
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x64.Build.0 = Release|x64
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x86.ActiveCfg = Release|Win32
+		{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
