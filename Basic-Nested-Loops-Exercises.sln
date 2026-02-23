@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36930.0 d17.14
+VisualStudioVersion = 17.14.36930.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-Number-Pyramid", "01-Number-Pyramid\01-Number-Pyramid.vcxproj", "{5A876887-5A5D-4D7F-9E2A-B1D7C1744166}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Sum-Prime-Non-Prime", "03-Sum-Prime-Non-Prime\03-Sum-Prime-Non-Prime.vcxproj", "{DB0CB74A-02DC-46BD-93DF-F1ECC2511E66}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Train-the-Trainers", "04-Train-the-Trainers\04-Train-the-Trainers.vcxproj", "{53E87E3F-0080-4130-A3DC-746AE110CAC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Special-Numbers", "05-Special-Numbers\05-Special-Numbers.vcxproj", "{473F2F08-E50C-4015-9E29-45BF45188DE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x64.Build.0 = Release|x64
 		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x86.ActiveCfg = Release|Win32
 		{53E87E3F-0080-4130-A3DC-746AE110CAC8}.Release|x86.Build.0 = Release|Win32
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Debug|x64.ActiveCfg = Debug|x64
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Debug|x64.Build.0 = Debug|x64
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Debug|x86.ActiveCfg = Debug|Win32
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Debug|x86.Build.0 = Debug|Win32
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x64.ActiveCfg = Release|x64
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x64.Build.0 = Release|x64
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x86.ActiveCfg = Release|Win32
+		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
