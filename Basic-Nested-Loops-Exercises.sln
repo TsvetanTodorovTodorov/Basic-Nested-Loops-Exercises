@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Train-the-Trainers", "04
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05-Special-Numbers", "05-Special-Numbers\05-Special-Numbers.vcxproj", "{473F2F08-E50C-4015-9E29-45BF45188DE7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-cinema-Tickets", "06-cinema-Tickets\06-cinema-Tickets.vcxproj", "{DD2214BB-55AB-48DE-92A1-62738760BFEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x64.Build.0 = Release|x64
 		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x86.ActiveCfg = Release|Win32
 		{473F2F08-E50C-4015-9E29-45BF45188DE7}.Release|x86.Build.0 = Release|Win32
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Debug|x64.ActiveCfg = Debug|x64
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Debug|x64.Build.0 = Debug|x64
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Debug|x86.Build.0 = Debug|Win32
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Release|x64.ActiveCfg = Release|x64
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Release|x64.Build.0 = Release|x64
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Release|x86.ActiveCfg = Release|Win32
+		{DD2214BB-55AB-48DE-92A1-62738760BFEB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
